@@ -1,0 +1,10 @@
+{
+    "total_requests": 4,
+    "total_alerts": 3,
+    "unique_blacklisted_domains": 3,
+    "blacklisted_domain_counts": {
+        "http://malicious-site.com/page1": 1,
+        "http://blacklisteddomain.com/page3": 1,
+        "http://malicious-site.com/login": 1
+    }
+}

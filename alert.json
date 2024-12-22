@@ -1,0 +1,17 @@
+[
+    {
+        "ip": "192.168.1.100",
+        "url": "http://malicious-site.com/page1",
+        "status": "404"
+    },
+    {
+        "ip": "192.168.1.102",
+        "url": "http://blacklisteddomain.com/page3",
+        "status": "404"
+    },
+    {
+        "ip": "192.168.1.103",
+        "url": "http://malicious-site.com/login",
+        "status": "404"
+    }
+]
